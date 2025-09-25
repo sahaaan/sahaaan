@@ -19,7 +19,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Currently building <b><a href="https://github.com/Smart-HR-Go">SmartHRGo – Lightweight Cloud HRMS</a></b>
-- 🌱 Learning <b>React Native, .NET, AWS</b>
+- 🌱 Learning <b>React Native, .NET, AWS, Docker</b>  
+- 📫 Contact me at: <a href="mailto:sahaaan123@gmail.com">sahaaan123@gmail.com</a>
 
 ---
 
@@ -49,5 +50,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahaaan&show_icons=true&theme=merko&hide_rank=false" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaaan&layout=compact&theme=darcula" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaaan&theme=radical" height="180" />
 </p>
