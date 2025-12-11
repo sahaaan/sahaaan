@@ -37,11 +37,47 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,react,nextjs,nodejs,typescript,javascript,flutter,dotnet,spring,jenkins,docker,kubernetes,aws,firebase,mongodb,mysql,git,linux,tailwind,bootstrap,arduino,matlab&perline=13" />
+<div align="center">
+
+### 💻 **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,ts,js,dart&perline=10" />
 </p>
+
+### 🎨 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,bootstrap,tailwind,nextjs&perline=10" />
+</p>
+
+### ⚙️ **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,dotnet,spring&perline=10" />
+</p>
+
+### 📱 **Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter&perline=10" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=10" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,jenkins&perline=10" />
+</p>
+
+### 🔧 **Hardware & Other Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,matlab&perline=10" />
+</p>
+
+</div>
+
 
 ---
 
