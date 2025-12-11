@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building <b><a href="https://github.com/Smart-HR-Go">SmartHRGo – Lightweight Cloud HRMS</a></b>
+- 🔭 Currently building <b><a href="https://github.com/Guardian-Gear">Guardian Gear – Smart Helmet Safety System</a></b>
 - 🌱 Learning <b>React Native, .NET, AWS, Docker</b>  
 - 📫 Contact me at: <a href="mailto:sahaaan123@gmail.com">sahaaan123@gmail.com</a>
 
@@ -38,9 +38,9 @@
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,react,reactnative,nodejs,typescript,javascript,flutter,dotnet,spring" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,docker,git,linux,tailwind,bootstrap,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,react,nextjs,nodejs,typescript,javascript,flutter,dotnet,spring,jenkins,docker,kubernetes,aws,firebase,mongodb,mysql,git,linux,tailwind,bootstrap,arduino,matlab&perline=13" />
 </p>
 
 ---
