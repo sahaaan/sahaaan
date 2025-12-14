@@ -77,13 +77,3 @@
 </p>
 
 </div>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahaaan&show_icons=true&theme=merko&hide_rank=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaaan&layout=compact&theme=darcula" height="180"/>
-</p>
