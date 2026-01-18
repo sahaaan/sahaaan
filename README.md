@@ -18,11 +18,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building <b><a href="https://github.com/Guardian-Gear">Guardian Gear – Smart Helmet Safety System</a></b>
-- 🌱 Learning <b>React Native, .NET, AWS, Docker</b>  
+- 🔭 Currently building **Patient Management System with Microservices Architecture**  
+  👉 <a href="https://github.com/sahaaan/patient-management-system">https://github.com/sahaaan/patient-management-system</a>
+- 🌱 Learning **Microservices Architecture, Spring Boot, Docker, Kubernetes (K8s),CI/CD, AWS**
+- 🌐 Portfolio: <a href="https://your-portfolio-link.com">https://your-portfolio-link.com</a>
 - 📫 Contact me at: <a href="mailto:sahaaan123@gmail.com">sahaaan123@gmail.com</a>
 
----
 
 ## 🌐 Connect With Me
 
