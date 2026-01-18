@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=1CD0ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;AI+%26+ML+Enthusiast;DevOps+%26+Cloud;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=1CD0ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Full+Stack+Developer;DevOps+%26+Cloud;" alt="Typing SVG" />
 </h1>
 
 ---
